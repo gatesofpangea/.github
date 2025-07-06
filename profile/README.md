@@ -1,6 +1,6 @@
 # Gates Of Pangea — Music as code!
 
-> "I don't compose. We program sound."
+> "I don't compose. I program sound."
 
 **Gates Of Pangea Lab** is an independent coding co-op where music tracks, sound systems and audio experiments are created using code, trackers and algorithmic thinking.
 
