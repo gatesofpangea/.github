@@ -30,7 +30,7 @@ I advocate:
 
 ---
 
-## ⚖️ Licenses
+## Licenses
 
 - Most raps are under MIT, CC-BY or GPL
 - Audio may have a separate license (indicated in each rap)
